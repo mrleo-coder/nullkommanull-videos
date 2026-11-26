@@ -1,0 +1,5 @@
+{
+  "name": "nullkommanull-videos",
+  "private": true,
+  "dependencies": {"remotion": "4.0.547", "@remotion/cli": "4.0.547", "react": "^19.0.0", "react-dom": "^19.0.0"}
+}

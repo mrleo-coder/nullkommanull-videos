@@ -1,0 +1,22 @@
+{
+  "type": "story", "channel": "tiktok",
+  "title": "Der erste Tag beim Bäcker",
+  "badge": "DEUTSCH LERNEN · A2",
+  "sentences": [
+    "Amara wohnt seit drei Wochen in Leipzig.",
+    "Jeden Morgen geht sie am *Bäcker* vorbei – aber sie traut sich nicht hinein.",
+    "Heute ist es anders. Sie öffnet die Tür und lächelt.",
+    "„Guten Morgen! Zwei *Brötchen*, bitte.“",
+    "Die Verkäuferin fragt: „Sonst noch etwas?“",
+    "Amara versteht nicht. Ihr Herz klopft.",
+    "Die Frau lacht freundlich: „Möchten Sie noch etwas *dazu*?“",
+    "„Ach so! Nein, *danke*. Das ist alles.“",
+    "Draußen beißt Amara in ihr Brötchen. Es schmeckt nach *Mut*."
+  ],
+  "vocab": [
+    {"de": "Sonst noch etwas?", "hint": "Möchten Sie noch mehr kaufen?"},
+    {"de": "sich trauen", "hint": "Mut haben, etwas zu tun"},
+    {"de": "der Mut", "hint": "keine Angst haben"}
+  ],
+  "question": "Was war dein erstes Mal auf Deutsch?"
+}

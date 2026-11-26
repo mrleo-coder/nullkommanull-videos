@@ -1,0 +1,26 @@
+{
+  "type": "story",
+  "channel": "youtube",
+  "title": "Black Friday: So erkennst du Fake-Rabatte",
+  "badge": "MORGEN IST BLACK FRIDAY",
+  "outroTitle": "MERK DIR DAS",
+  "sentences": [
+    "Morgen ist Black Friday – und überall steht *minus 50 Prozent*.",
+    "Aber viele dieser Rabatte sind aufgeblasen.",
+    "Trick Nummer eins: Der Shop vergleicht mit der *UVP*. Die hat aber fast niemand je bezahlt.",
+    "Trick Nummer zwei: Der Preis wird vorher hochgesetzt – und dann „reduziert“.",
+    "Dagegen gibt es eine Regel: Der Händler muss den *niedrigsten Preis der letzten 30 Tage* angeben.",
+    "Trick Nummer drei: Countdown-Uhren. Sie sollen dich nur unter *Druck* setzen.",
+    "Mein Tipp: Schau auf einem Preisvergleich nach, wie der Preis das ganze Jahr war.",
+    "Und wenn du doch zu schnell gekauft hast: Online hast du meistens *14 Tage* Widerrufsrecht."
+  ],
+  "vocab": [
+    {"de": "30-Tage-Preis checken", "hint": "Nur dieser Vergleich zählt, nicht die UVP"},
+    {"de": "Preisverlauf ansehen", "hint": "Preisvergleich zeigt das ganze Jahr"},
+    {"de": "14 Tage Widerruf", "hint": "Online-Käufe kannst du meist zurückgeben"}
+  ],
+  "question": "Was kaufst du dieses Jahr am Black Friday?",
+  "yt_title": "Black Friday: 3 Tricks hinter Fake-Rabatten 😳 #shorts",
+  "yt_description": "Morgen ist Black Friday. So erkennst du, ob ein Rabatt echt ist: 30-Tage-Preis, UVP-Trick, Countdown-Druck.\n\nKeine Finanz- oder Rechtsberatung.\n\n#blackfriday #sparen #shopping #deals #shorts",
+  "yt_tags": ["Black Friday", "Fake Rabatte", "Geld sparen", "Finanzen", "Shorts", "NullKommaNull"]
+}
