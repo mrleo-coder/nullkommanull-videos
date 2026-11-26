@@ -1,0 +1,12 @@
+{
+  "type": "fehler",
+  "channel": "tiktok",
+  "hook": ["DEUTSCH-TEST", "FINDEST DU", "ALLE 3 FEHLER? 👀"],
+  "levels": [
+    {"word": "Bahnhof", "odd": "Banhof", "at": 21},
+    {"word": "Fahrkarte", "odd": "Fahrkate", "at": 10},
+    {"word": "Rechnung", "odd": "Rechnug", "at": 35}
+  ],
+  "cta": "Wie viele hast du? Schreib’s in die Kommentare 💬",
+  "tiktok_caption": "Deutsch-Test: Findest du alle 3 Fehler? 👀 #deutschlernen #learngerman #deutsch #rätsel"
+}

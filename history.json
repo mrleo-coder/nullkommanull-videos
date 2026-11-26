@@ -1,5 +1,38 @@
 [
-  {"date": "2026-11-26", "channel": "youtube", "format": "story", "topic": "Black Friday Fake-Rabatte", "yt_video_id": null},
-  {"date": "2026-11-26", "channel": "tiktok", "format": "story", "topic": "Der erste Tag beim Bäcker (A2)"},
-  {"date": "2026-11-25", "channel": "test", "format": "fehler", "topic": "Brötchen/Fahrrad/Gemüse"}
+  {
+    "date": "2026-11-25",
+    "channel": "test",
+    "format": "fehler",
+    "topic": "Brötchen/Fahrrad/Gemüse"
+  },
+  {
+    "date": "2026-11-26",
+    "slot": "13:00",
+    "channel": "youtube",
+    "format": "fehler",
+    "topic": "Weihnachtswörter (Glühwein, Schneemann, Plätzchen)",
+    "yt_video_id": null
+  },
+  {
+    "date": "2026-11-26",
+    "slot": "18:00",
+    "channel": "youtube",
+    "format": "story",
+    "topic": "Black Friday Fake-Rabatte",
+    "yt_video_id": null
+  },
+  {
+    "date": "2026-11-26",
+    "slot": "13:00",
+    "channel": "tiktok",
+    "format": "fehler",
+    "topic": "Alltagswörter (Bahnhof, Fahrkarte, Rechnung)"
+  },
+  {
+    "date": "2026-11-26",
+    "slot": "18:00",
+    "channel": "tiktok",
+    "format": "story",
+    "topic": "Der erste Tag beim Bäcker (A2)"
+  }
 ]

@@ -1,0 +1,14 @@
+{
+  "type": "fehler",
+  "channel": "youtube",
+  "hook": ["NUR 1 %", "FINDET ALLE", "3 FEHLER 🎄"],
+  "levels": [
+    {"word": "Glühwein", "odd": "Glühwien", "at": 18},
+    {"word": "Schneemann", "odd": "Schneeman", "at": 29},
+    {"word": "Plätzchen", "odd": "Plätzchne", "at": 6}
+  ],
+  "cta": "Schreib deine Zahl in die Kommentare 💬",
+  "yt_title": "Nur 1 % findet alle 3 Fehler 🎄 Schaffst du es? #shorts",
+  "yt_description": "Weihnachtsmarkt-Saison! Findest du das falsch geschriebene Wort in 6 Sekunden? Schreib deine Zahl in die Kommentare.\n\n#rätsel #weihnachten #challenge #shorts",
+  "yt_tags": ["Rätsel", "Finde den Fehler", "Weihnachten", "Challenge", "Shorts", "NullKommaNull"]
+}
