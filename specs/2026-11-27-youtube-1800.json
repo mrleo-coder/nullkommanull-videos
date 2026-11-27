@@ -1,0 +1,14 @@
+{
+  "type": "fehler",
+  "channel": "youtube",
+  "hook": ["FREITAGSSPIEL!", "FINDEST DU DEN", "TIPPFEHLER? ⚽"],
+  "levels": [
+    {"word": "Abseits", "odd": "Abseist", "at": 14},
+    {"word": "Elfmeter", "odd": "Elfmetre", "at": 31},
+    {"word": "Torwart", "odd": "Torwatr", "at": 3}
+  ],
+  "cta": "Bei welchem Level warst du raus? 💬",
+  "yt_title": "Fußball-Rätsel: Findest du den Tippfehler in 6 Sekunden? ⚽ #shorts",
+  "yt_description": "Heute Abend läuft Bundesliga – aufwärmen mit drei Levels: Findest du das falsch geschriebene Fußballwort, bevor die Zeit abläuft?\n\n#fußball #bundesliga #rätsel #findedenfehler #shorts",
+  "yt_tags": ["Fußball", "Bundesliga", "Rätsel", "Finde den Fehler", "Challenge", "Shorts", "NullKommaNull"]
+}

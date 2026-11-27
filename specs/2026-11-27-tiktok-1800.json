@@ -1,0 +1,12 @@
+{
+  "type": "fehler",
+  "channel": "tiktok",
+  "hook": ["ES WIRD KALT 🥶", "WELCHES WORT", "IST FALSCH?"],
+  "levels": [
+    {"word": "Mütze", "odd": "Müzte", "at": 25},
+    {"word": "Handschuh", "odd": "Handshuh", "at": 8},
+    {"word": "Winterjacke", "odd": "Winterjake", "at": 37}
+  ],
+  "cta": "Wie viele hast du gefunden? 💬",
+  "tiktok_caption": "Winter-Deutsch-Quiz 🥶 Findest du das falsche Wort? Mütze, Handschuh, Winterjacke #deutschlernen #learngerman #deutsch #quiz #winter"
+}

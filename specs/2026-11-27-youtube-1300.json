@@ -1,0 +1,26 @@
+{
+  "type": "story",
+  "channel": "youtube",
+  "title": "5 Fakten über den Christkindlesmarkt",
+  "badge": "HEUTE 17:30 · NÜRNBERG",
+  "outroTitle": "KURZ GEMERKT",
+  "sentences": [
+    "Heute um *17:30 Uhr* öffnet in Nürnberg einer der bekanntesten Weihnachtsmärkte der Welt.",
+    "Fakt eins: Er wird schon *1678* schriftlich erwähnt – vor fast 350 Jahren.",
+    "Fakt zwei: Eröffnet wird er nicht vom Bürgermeister, sondern vom *Christkind*.",
+    "Und das Christkind wird gewählt – für *zwei Jahre*.",
+    "Fakt drei: Es gibt bis zu *180 Buden* – alle mit rot-weißen Stoffdächern.",
+    "Fakt vier: Letztes Jahr kamen *mehr als zwei Millionen* Besucher.",
+    "Fakt fünf: Sogar in *Chicago* gibt es einen Markt nach Nürnberger Vorbild.",
+    "Geöffnet ist bis Heiligabend – am 24. Dezember aber nur bis *14 Uhr*."
+  ],
+  "vocab": [
+    {"de": "seit 1678", "hint": "erste schriftliche Erwähnung"},
+    {"de": "bis zu 180 Buden", "hint": "mit rot-weißen Stoffdächern"},
+    {"de": "über 2 Mio. Besucher", "hint": "im Jahr 2025"}
+  ],
+  "question": "Welcher Weihnachtsmarkt ist für dich der schönste?",
+  "yt_title": "Heute öffnet er: 5 Fakten über den Nürnberger Christkindlesmarkt 🎄 #shorts",
+  "yt_description": "Heute um 17:30 Uhr eröffnet das Christkind den Nürnberger Christkindlesmarkt. 5 Fakten, die du wahrscheinlich nicht kanntest.\n\nQuelle: Stadt Nürnberg (Ausblick Christkindlesmarkt 2026).\n\n#weihnachtsmarkt #nürnberg #christkindlesmarkt #wusstestdu #shorts",
+  "yt_tags": ["Christkindlesmarkt", "Nürnberg", "Weihnachtsmarkt", "Wusstest du", "Fakten", "Shorts", "NullKommaNull"]
+}

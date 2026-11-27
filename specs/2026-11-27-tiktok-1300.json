@@ -1,0 +1,23 @@
+{
+  "type": "story", "channel": "tiktok",
+  "title": "Mein erster Weihnachtsmarkt",
+  "badge": "DEUTSCH LERNEN · A2–B1",
+  "sentences": [
+    "Kofi lebt seit August in Nürnberg.",
+    "Heute Abend *eröffnet* der Weihnachtsmarkt, und seine Kollegin Lena nimmt ihn mit.",
+    "Überall riecht es nach *Lebkuchen* und gebrannten Mandeln.",
+    "Kofi zeigt auf eine Bude: „Was ist das?“",
+    "„Das sind Nürnberger *Rostbratwürste*. Drei im Brötchen!“, sagt Lena.",
+    "Er bestellt und fragt höflich: „Kann ich mit Karte *bezahlen*?“",
+    "Der Verkäufer schüttelt den Kopf: „Leider nur *bar*.“",
+    "Lena lacht und gibt ihm fünf Euro. „Nächstes Mal lädst du mich ein!“",
+    "Kofi nickt. Er weiß schon: Das wird nicht sein *letzter* Besuch."
+  ],
+  "vocab": [
+    {"de": "die Bude", "hint": "kleiner Stand auf dem Markt"},
+    {"de": "bar bezahlen", "hint": "mit Münzen und Scheinen"},
+    {"de": "jemanden einladen", "hint": "für jemanden bezahlen"}
+  ],
+  "question": "Was isst du am liebsten auf dem Weihnachtsmarkt?",
+  "tiktok_caption": "Mini-Story A2–B1: Mein erster Weihnachtsmarkt 🎄 Lies mit und lerne 3 neue Wörter! #deutschlernen #learngerman #weihnachtsmarkt #deutsch #a2 #b1"
+}

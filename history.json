@@ -34,5 +34,39 @@
     "channel": "tiktok",
     "format": "story",
     "topic": "Der erste Tag beim Bäcker (A2)"
+  },
+  {
+    "date": "2026-11-27",
+    "slot": "13:00",
+    "channel": "youtube",
+    "format": "story",
+    "topic": "5 Fakten Nürnberger Christkindlesmarkt (Eröffnung heute)",
+    "hook": "Heute öffnet er: 5 Fakten",
+    "yt_video_id": null
+  },
+  {
+    "date": "2026-11-27",
+    "slot": "18:00",
+    "channel": "youtube",
+    "format": "fehler",
+    "topic": "Fußballwörter (Abseits, Elfmeter, Torwart)",
+    "hook": "Freitagsspiel! Findest du den Tippfehler?",
+    "yt_video_id": null
+  },
+  {
+    "date": "2026-11-27",
+    "slot": "13:00",
+    "channel": "tiktok",
+    "format": "story",
+    "topic": "Mein erster Weihnachtsmarkt (A2–B1)",
+    "hook": "Mini-Story Weihnachtsmarkt"
+  },
+  {
+    "date": "2026-11-27",
+    "slot": "18:00",
+    "channel": "tiktok",
+    "format": "fehler",
+    "topic": "Winterkleidung (Mütze, Handschuh, Winterjacke)",
+    "hook": "Es wird kalt – welches Wort ist falsch?"
   }
 ]
