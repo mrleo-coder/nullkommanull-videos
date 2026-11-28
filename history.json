@@ -68,5 +68,39 @@
     "format": "fehler",
     "topic": "Winterkleidung (Mütze, Handschuh, Winterjacke)",
     "hook": "Es wird kalt – welches Wort ist falsch?"
+  },
+  {
+    "date": "2026-11-28",
+    "slot": "13:00",
+    "channel": "youtube",
+    "format": "story",
+    "topic": "Geschichte Adventskranz (Wichern 1839, Wagenrad, 24 Kerzen) – 1. Advent morgen",
+    "hook": "Der erste Adventskranz war ein Wagenrad",
+    "yt_video_id": null
+  },
+  {
+    "date": "2026-11-28",
+    "slot": "18:00",
+    "channel": "youtube",
+    "format": "fehler",
+    "topic": "Plätzchen (Zimtstern, Spekulatius, Pfeffernuss)",
+    "hook": "Back-Samstag! Findest du den Tippfehler?",
+    "yt_video_id": null
+  },
+  {
+    "date": "2026-11-28",
+    "slot": "13:00",
+    "channel": "tiktok",
+    "format": "fehler",
+    "topic": "Adventswörter (Kerze, Geschenk, Tannenbaum)",
+    "hook": "Morgen ist Advent – welches Wort ist falsch?"
+  },
+  {
+    "date": "2026-11-28",
+    "slot": "18:00",
+    "channel": "tiktok",
+    "format": "story",
+    "topic": "Kofi und der Adventskranz (A2–B1)",
+    "hook": "Mini-Story Adventskranz"
   }
 ]

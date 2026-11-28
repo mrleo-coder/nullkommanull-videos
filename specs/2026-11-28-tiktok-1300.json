@@ -1,0 +1,12 @@
+{
+  "type": "fehler",
+  "channel": "tiktok",
+  "hook": ["MORGEN IST ADVENT 🕯️", "WELCHES WORT", "IST FALSCH?"],
+  "levels": [
+    {"word": "Kerze", "odd": "Kezre", "at": 13},
+    {"word": "Geschenk", "odd": "Geschenck", "at": 30},
+    {"word": "Tannenbaum", "odd": "Tannebaum", "at": 2}
+  ],
+  "cta": "Wie viele hast du gefunden? 💬",
+  "tiktok_caption": "Advent-Deutsch-Quiz 🕯️ Findest du das falsche Wort? Kerze, Geschenk, Tannenbaum – schreib dein Level in die Kommentare! #deutschlernen #learngerman #deutsch #advent #quiz"
+}

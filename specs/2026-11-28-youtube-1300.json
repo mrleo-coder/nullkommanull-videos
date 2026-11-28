@@ -1,0 +1,27 @@
+{
+  "type": "story",
+  "channel": "youtube",
+  "title": "Der erste Adventskranz war ein Wagenrad",
+  "badge": "MORGEN · 1. ADVENT",
+  "outroTitle": "KURZ GEMERKT",
+  "sentences": [
+    "Hamburg, im Jahr *1839*.",
+    "In einem Waisenhaus hängt der Theologe *Johann Hinrich Wichern* etwas Seltsames auf:",
+    "ein großes *Wagenrad*.",
+    "Darauf stehen *24 Kerzen* – eine für jeden Tag bis Weihnachten.",
+    "So wird das Warten für die Kinder sichtbar.",
+    "Heute hat der Kranz meistens nur noch *vier* Kerzen – eine für jeden Adventssonntag.",
+    "Richtig beliebt im ganzen Land wurde er erst *nach dem Zweiten Weltkrieg*.",
+    "Und das Wort Advent? Es kommt vom lateinischen *adventus* – die Ankunft.",
+    "Morgen, am *29. November*, brennt die erste Kerze."
+  ],
+  "vocab": [
+    {"de": "1839 in Hamburg", "hint": "Johann Hinrich Wichern"},
+    {"de": "Wagenrad mit 24 Kerzen", "hint": "eine pro Tag bis Weihnachten"},
+    {"de": "adventus = Ankunft", "hint": "Latein"}
+  ],
+  "question": "Habt ihr zu Hause einen Adventskranz – ja oder nein?",
+  "yt_title": "Der erste Adventskranz war ein Wagenrad mit 24 Kerzen 🕯️ #shorts",
+  "yt_description": "Morgen ist der 1. Advent. Aber wer hat den Adventskranz erfunden – und warum hatte der erste 24 Kerzen? Die Geschichte in 60 Sekunden.\n\nQuellen: ZDFheute (Advent-FAQ), Monrose (Erster Advent 2026).\n\n#advent #adventskranz #wusstestdu #weihnachten #shorts",
+  "yt_tags": ["Advent", "Adventskranz", "1. Advent", "Wusstest du", "Geschichte", "Weihnachten", "Shorts", "NullKommaNull"]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "fehler",
+  "channel": "youtube",
+  "hook": ["BACK-SAMSTAG! 🍪", "FINDEST DU DEN", "TIPPFEHLER?"],
+  "levels": [
+    {"word": "Zimtstern", "odd": "Zimstern", "at": 21},
+    {"word": "Spekulatius", "odd": "Spekulatuis", "at": 6},
+    {"word": "Pfeffernuss", "odd": "Pfefernuss", "at": 34}
+  ],
+  "cta": "Welches Plätzchen backst du zuerst? 💬",
+  "yt_title": "Back-Samstag vor dem 1. Advent: Findest du den Tippfehler? 🍪 #shorts",
+  "yt_description": "Morgen ist der 1. Advent – heute wird gebacken! Drei Levels: Findest du das falsch geschriebene Plätzchen, bevor die Zeit abläuft?\n\n#plätzchen #advent #rätsel #findedenfehler #shorts",
+  "yt_tags": ["Plätzchen", "Advent", "Backen", "Rätsel", "Finde den Fehler", "Challenge", "Shorts", "NullKommaNull"]
+}
